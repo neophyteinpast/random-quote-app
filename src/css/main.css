@@ -1,0 +1,25 @@
+
+body {
+    padding: 10% 0;
+}
+
+#quote-box {
+    margin: auto;
+    width: 40vw;
+}
+
+#author {
+    text-align: right;
+}
+
+.container {
+    padding: 3vw;
+    border-radius: 0.3vw;
+    background-color: white;
+}
+
+.header {
+    display: inline-block;
+    text-align: left;
+}
+
